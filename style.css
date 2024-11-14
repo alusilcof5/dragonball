@@ -1,0 +1,16 @@
+
+    /* Añade tus estilos aquí */
+    .character-card {
+      border: 1px solid #ddd;
+      padding: 10px;
+      margin: 10px;
+      display: inline-block;
+      vertical-align: top;
+    }
+    .character-card img {
+      max-width: 100%;
+    }
+    .character-details {
+      margin-top: 10px;
+    }
+  
